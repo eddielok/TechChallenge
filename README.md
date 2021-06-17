@@ -6,8 +6,6 @@ TechChallenge
 
 This repository is home to the following [.NET Foundation](https://dotnetfoundation.org/) projects. These projects are maintained by [Microsoft](https://github.com/microsoft) and licensed under the [Apache License, Version 2.0](LICENSE.txt).
 
-* [Entity Framework Core](#entity-framework-core)
-* [Microsoft.Data.Sqlite](#microsoftdatasqlite)
 
 ## Entity Framework Core
 
